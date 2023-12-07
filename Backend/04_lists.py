@@ -92,4 +92,4 @@ print(my_new_list[1:3])
 my_list = "Hola Python"
 print(my_list)
 print(type(my_list))
-#ahora
+#ahora lo que modifico en uno cambia en los dos y tengo que subir primero el origen y luego la copia
