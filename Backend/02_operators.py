@@ -11,6 +11,7 @@ print(10 % 3)
 print(10 // 3)
 print(2 ** 3)
 print(2 ** 3 + 3 - 7 / 1 // 4)
+#prueba git
 
 # Operaciones con cadenas de texto
 print("Hola " + "Python " + "¿Qué tal?")
